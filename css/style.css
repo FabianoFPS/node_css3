@@ -1,0 +1,12 @@
+/* *(asterisco) seletor universal -  para todos os componentes */
+*{margin:0; padding:0; color: rgba(53, 121, 66, 0.79);}
+
+/* Seletor TAG */
+h1 {color:blue; font-size: 50px;}
+p {color: orange; font-size: 12px;}
+
+/* Seletor Atributo */
+input[type="text"]{width: 200px; background-color:#d01d1d; border:none; height: 40px;}
+input[type="email"]{width: 800px; background-color:#48394a; border:none; height: 30px;}
+input[type="submit"]{width: 100px; background-color:#a8df21; border:none; height: 100px; cursor: pointer; color: rgb(138, 2, 161)}
+input[name="input_password"]{width: 60px; background-color:rgb(227, 244, 32); height: 25px;}
