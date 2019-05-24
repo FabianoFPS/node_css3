@@ -1,0 +1,28 @@
+#conteudo1 {
+    background-color: green;
+    color: #fff;
+    padding: 20px;
+    width: 500px;
+    height: 190px;
+}
+#conteudo2 {
+    background-color: green;
+    color: #fff;
+    padding: 20px;
+    width: 80%;
+    height: 190px;
+}
+#conteudo3 {
+    background-color: green;
+    color: #fff;
+    padding: 20px;
+    max-width: 700px;
+    max-height: : 250px;
+}
+#conteudo4 {
+    background-color: green;
+    color: #fff;
+    padding: 20px;
+    min-width: 500px;
+    min-height: : 500px;
+}

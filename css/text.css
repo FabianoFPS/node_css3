@@ -1,0 +1,41 @@
+p {
+    color: red;
+    text-transform: uppercase;
+    text-align: justify;
+    text-indent: 20px;
+    line-height: 30px;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+}
+
+.div1 {
+    text-transform: lowercase;
+    direction: ltr;
+}
+.div2 {
+    text-transform: capitalize;
+    direction: rtl;
+}
+h1 {
+    text-align: left;
+    text-decoration: underline;
+    letter-spacing: -3px;
+    text-shadow: 3px 3px 4px rgb(57, 181, 69);
+}
+
+h2 {
+    text-align: right;
+    text-decoration: overline;
+    text-shadow: 3px 3px rgb(210, 37, 78);
+}
+
+h3 {
+    text-align: center;
+    text-decoration: line-through;
+    text-shadow: 1px 30px rgb(37, 65, 210);
+}
+
+a {
+    text-decoration: none;
+    text-shadow: 1px -20px rgb(153, 172, 106);
+}

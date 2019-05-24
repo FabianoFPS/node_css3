@@ -1,0 +1,15 @@
+.d_login { 
+    background-color: rgb(38, 205, 175);
+    max-width: 500px;
+    min-width: 50px;
+    min-height: 200px;
+    max-height: 250px;
+    border-radius: 20px ;
+
+
+}
+
+.f_login {
+    /*background-color: rgb(35, 103, 198);*/
+    padding: 60px 20px 20px 40px;
+}

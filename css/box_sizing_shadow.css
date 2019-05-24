@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box; /*mantem os elementos com o mesmo tamnahoa, mesmo usando padding*/
+}
+
+#id_conteudo {
+    background-color: red;
+    width: 300px;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 5px green;
+}

@@ -1,0 +1,24 @@
+* {
+  font-size: 100%;
+}
+#id_1 {
+  font-family: Time, "Times New Roman", serife;
+  font-variant: normal;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1em;
+}
+
+#id_2 {
+  font-family: Arial, Verdana, sans-serif;
+  font-variant: small-caps;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 2.5em /*16px X 2.5 = 40px*/
+}
+
+#id_3 {
+  font-family: algerian;
+  font-style: oblique;
+  font-size: 40px;
+}

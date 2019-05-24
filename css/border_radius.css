@@ -1,0 +1,33 @@
+#bloco {
+  background-color: green;
+  width: 300px;
+  height: 150px;
+  border-radius: 20px;
+}
+
+#bloco2 {
+  margin-top: 50px;
+  background-color: red;
+  width: 300px;
+  height: 150px;
+  border-radius: 20px 50px;
+}
+
+#bloco3 {
+  margin-top: 50px;
+  background-color: orange;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px 100px 100px 100px;
+}
+
+#bloco4 {
+  margin-top: 50px;
+  background-color: black;
+  width: 300px;
+  height: 150px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 45px;
+  border-bottom-right-radius: 35px;
+}
