@@ -1,0 +1,89 @@
+#cores {
+    width: 200px;
+    height: 200px;
+    background-color: #25d17f;
+
+}
+#cores2 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(37, 52, 182);
+    margin-top: 10px;
+}
+
+#cores3 {
+    width: 200px;
+    height: 200px;
+    background-color: rgba(37, 52, 182, 0.5);/*opacidade*/
+    margin-top: 10px;
+}
+
+#cores4 {
+    width: 200px;
+    height: 200px;
+    background-color: hsl(278, 66%, 46%);
+    margin-top: 10px;
+}
+
+#HSLA {
+    width: 200px;
+    height: 200px;
+    background-color: hsla(278, 66%, 46%, 0.2);
+    margin-top: 10px;
+}
+
+#linear_gradiente {
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    background: linear-gradient(red, blue);
+}
+
+#linear_gradiente2 {
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    background: linear-gradient(to right,red, blue);
+}
+
+#linear_gradiente3 {
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    background: linear-gradient(to left,red, blue);
+}
+
+#linear_gradiente4 {
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    background: linear-gradient(to top,red, blue, green);
+}
+
+#linear_gradiente5 {
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    background: linear-gradient(to top left,red, blue, green);
+}
+
+#linear_gradiente6 {
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    background: linear-gradient(80deg,red, blue, green);
+}
+
+#linear_gradiente7 {
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    background: linear-gradient(80deg,rgba(255,0,0,0), blue, green);
+}
+
+#radial_gradiente {
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    background: radial-gradient(red, green);
+}
