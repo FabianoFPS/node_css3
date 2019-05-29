@@ -1,0 +1,12 @@
+body {
+    background-image: url(../img/img.jpg);
+    /*background-image: url(../img/maca.jpg);*/
+    /*background-repeat: repeat-x;
+    background-repeat: repeat-y;*/
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-attachment: fixed;
+    /* background-size: 300px 500px; */
+    background-size: 50% 50%;
+    background: url(../img/img.jpg) center center/10% 10% no-repeat fixed;
+}

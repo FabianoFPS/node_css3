@@ -1,0 +1,42 @@
+#exemplo {
+    border-style: dotted;
+    border-width: 10px;
+    border-color: red;
+}
+
+#exemplo2 {
+    border: dashed 15px orange;
+}
+
+#exemplo3 {
+    border-style: solid;
+}
+
+#exemplo4 {
+    border-style: double;
+}
+
+#exemplo5 {
+    border-style: groove;
+}
+
+#exemplo6 {
+    border-style: ridge;
+}
+
+#exemplo7 {
+    border-style: inset;
+}
+
+#exemplo8 {
+    border-style: outset;
+}
+
+#exemplo9 {
+    border-top-style: solid;
+    outline: dotted 5px orange;
+}
+
+#exemplo10 {
+    outline: dotted 5px green;
+}
