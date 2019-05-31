@@ -1,0 +1,44 @@
+#img1 {
+     margin: 40px 0 0 60px;
+     filter: blur(4px);
+}
+
+#img2 {
+     margin: 40px 0 0 60px;
+     filter: brightness(70%);
+}
+
+#img3 {
+     margin: 40px 0 0 60px;
+     filter: contrast(130%);
+}
+
+#img4 {
+     margin: 40px 0 0 60px;
+     filter: grayscale(100%);
+}
+
+#img5 {
+     margin: 40px 0 0 60px;
+     filter: invert(200%);
+}
+
+#img6 {
+     margin: 40px 0 0 60px;
+     filter: saturate(160%);
+}
+
+#img7 {
+     margin: 40px 0 0 60px;
+     filter: sepia(180%);
+}
+
+#img8 {
+     margin: 40px 0 0 60px;
+     filter: hue-rotate(50deg);
+}
+
+#img9 {
+     margin: 40px 0 0 60px;
+     filter: drop-shadow(30px 30px 5px #000);
+}

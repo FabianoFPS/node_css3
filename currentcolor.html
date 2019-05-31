@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <title>Document</title>
+     <style>
+          :root{
+               --bg_color: orange;
+               --cor_do_texto: #fff;
+               --espacamanto: 20px;
+          }
+
+          body {
+               background-color: blue;
+          }
+
+          button {
+              background-color: white;
+              color: red;
+              width: 100px;
+              height: 50px;
+              border: 2px solid currentColor;
+          }
+
+          #div1 {
+               background-color: var(--bg_color);
+               color:  var(--cor_do_texto);
+               padding: var(--espacamanto);
+          }
+
+     </style>
+</head>
+<body>
+     <button>Cadastrar</button>
+
+     <div id="div1">
+          <p>Variaveis no CSS devem ser declaradas dentro de um seletor CSS que defineseu escopo.
+          </p>
+     </div>
+     <div id="div2">
+               <p>Variaveis no CSS devem ser declaradas dentro de um seletor CSS que defineseu escopo.
+               </p>
+     </div>
+     <div id="div3">
+               <p>Variaveis no CSS devem ser declaradas dentro de um seletor CSS que defineseu escopo.
+               </p>
+     </div>     
+</body>
+</html>
